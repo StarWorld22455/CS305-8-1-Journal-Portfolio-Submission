@@ -25,4 +25,4 @@ A list of resources and tools that I used that helped me for future assignments 
 
 - Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-I would show my employers this project since it was helpful at expanding my knowledge in setting up encryption methods, designing secure applications, and showed me better uses of acquiring vulnerability assessment tools.
+I would show my employers this project since it was helpful at expanding my knowledge in setting up encryption methods, designing secure applications, and showed me better uses of acquiring vulnerability assessment tools. It also allowed me to make continuous tests in making sure the program was secure and running efficiently.
