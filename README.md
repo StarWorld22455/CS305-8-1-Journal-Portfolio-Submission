@@ -21,7 +21,7 @@ While working on the project, I acquired specific tools like Maven build tests t
 
 - What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
-A list of resources and tools that I used that helped me for future assignments included the OWASP Dependency Check method, and the Spring Boot framework. Reading through the tutorial on how to use Eclipse IDE was also important for completing each assignment I worked on.
+A list of resources and tools that I used that helped me for future assignments included the OWASP Dependency Check method, and the Spring Boot framework. Reading through the tutorials on how to use Eclipse IDE was also important for handling each assignment being assigned for me to complete.
 
 - Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
