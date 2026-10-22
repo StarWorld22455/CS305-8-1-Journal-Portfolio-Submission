@@ -5,7 +5,7 @@ The client, which is the financial services company Artemis Financial, wanted cu
 
 - What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
-I was able to analyze all the client's existing software vulnerabilities through the use of detailed testing and configuration. Doing this allowed me to create a complete list of the system's issues involving security and introduce solutions when protecting specific code. 
+I was able to analyze all the client's existing software vulnerabilities through the use of implementing encrypting methods with a SHA-256 hashing, as well as scanning for obsolete dependencies. Doing these things allowed me to create a complete list of the system's issues involving security and introduce solutions when protecting specific code. 
 
 - Which part of the vulnerability assessment was challenging or helpful to you?
 
