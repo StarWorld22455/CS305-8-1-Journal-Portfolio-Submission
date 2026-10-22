@@ -17,7 +17,7 @@ I was able to increase layers of security since implementing numerous layers of 
 
 - How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
-While working on the project, I acquired specific tools like Maven build tests that help scan code to check for vulnerabilities found within the programming language. To make sure the software applicaion was functional and secure, I created a dependency-check report to see if there were no new vulnerabilities and did continuous test runs after modifying each line of code instead of doing it all at the very end of the process. 
+While working on the project, I acquired specific tools like Maven build tests that help scan code to check for vulnerabilities found within the programming language. To make sure the software applicaion was functional and secure, I created a dependency-check report to see if there were no new vulnerabilities and did continuous test runs after modifying each line of code instead of at the very end of the process. 
 
 - What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
